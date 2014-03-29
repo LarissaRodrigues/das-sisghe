@@ -1,0 +1,47 @@
+<list>
+  <disciplina>
+    <nome>Circuitos Eletronicos 1</nome>
+    <codigo>203785</codigo>
+    <pre__req>113301</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Calculo 1</nome>
+    <codigo>113034</codigo>
+    <pre__req>0</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Calculo 2</nome>
+    <codigo>113042</codigo>
+    <pre__req>113034</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Introducao a Ciencia da Computacao</nome>
+    <codigo>113913</codigo>
+    <pre__req>0</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Orientacao a Objetos</nome>
+    <codigo>195341</codigo>
+    <pre__req>113913</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Metodos Numericos para Engenharia</nome>
+    <codigo>195413</codigo>
+    <pre__req>113042</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Calculo 3</nome>
+    <codigo>113051</codigo>
+    <pre__req>113042</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Fundamentos da Teoria Eletromagnetica</nome>
+    <codigo>193682</codigo>
+    <pre__req>118001 e 113051</pre__req>
+  </disciplina>
+  <disciplina>
+    <nome>Introducao a Algebra Linear</nome>
+    <codigo>113093</codigo>
+    <pre__req>0</pre__req>
+  </disciplina>
+</list>

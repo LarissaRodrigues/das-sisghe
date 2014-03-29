@@ -1,0 +1,9 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+file.reference.jacoco-maven-plugin-0.6.2.201302030002.jar=/home/beatriz/Downloads/jacoco-0.6.3-20130211.131521-4.zip
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/home/david/.netbeans/7.2.1/build.properties
+file.reference.emma.jar=/home/david/.netbeans/7.2.1/modules/ext/emma.jar
+file.reference.emma.jar=/home/david/.netbeans/7.2.1/modules/ext/emma.jar

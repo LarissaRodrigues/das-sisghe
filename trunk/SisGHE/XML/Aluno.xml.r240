@@ -1,0 +1,6 @@
+<aluno>
+  <nome>Teste</nome>
+  <matricula>123456789</matricula>
+  <curso>TesteC</curso>
+  <semestre>3</semestre>
+</aluno>

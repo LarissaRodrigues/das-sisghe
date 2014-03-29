@@ -1,0 +1,470 @@
+<list>
+  <Model.Disciplina>
+    <nome>Eletronica Veicular</nome>
+    <codigo>206237</codigo>
+    <pre__req>0</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>AA</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Fisica 1</nome>
+    <codigo>118001</codigo>
+    <pre__req>0</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>O</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>P</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>Q</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Fundamentos de Sistemas Operacionais</nome>
+    <codigo>201286</codigo>
+    <pre__req>0</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Sensores e Transdutores</nome>
+    <codigo>206300</codigo>
+    <pre__req>0</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Metodos Matematicos para Engenharia</nome>
+    <codigo>201642</codigo>
+    <pre__req>113051 e 113301</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Analise de Sinais e Design de Circuitos</nome>
+    <codigo>208248</codigo>
+    <pre__req>203785</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Circuitos Eletronicos 2</nome>
+    <codigo>206156</codigo>
+    <pre__req>203785</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>B</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Instrumentacao Eletronica</nome>
+    <codigo>206164</codigo>
+    <pre__req>203785 ou 206237</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>18:00 as 20:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Projeto de Circuitos Eletronicos Integrados 1</nome>
+    <codigo>206148</codigo>
+    <pre__req>203785 ou 167053</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Equacoes Diferenciais</nome>
+    <codigo>113301</codigo>
+    <pre__req>113042</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Estruturas de Dados e Algoritmos</nome>
+    <codigo>193704</codigo>
+    <pre__req>113913</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Eletricidade Aplicada</nome>
+    <codigo>201634</codigo>
+    <pre__req>193682</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>B</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>C</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>D</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>18:00 as 20:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>E</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Sistemas Digitais 1</nome>
+    <codigo>167983</codigo>
+    <pre__req>113093</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>BB</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>CC</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>DD</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>EE</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>18:00 as 20:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>FF</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>GG</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+</list>

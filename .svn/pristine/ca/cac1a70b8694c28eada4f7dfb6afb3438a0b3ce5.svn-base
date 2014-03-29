@@ -1,0 +1,148 @@
+<list>
+  <Model.Disciplina>
+    <nome>Acustica e Vibracoes Veiculares</nome>
+    <codigo>111111</codigo>
+    <pre__req>111111</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>14:00 as 16:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Analise de Sinais e Design de Circuitos</nome>
+    <codigo>222222</codigo>
+    <pre__req>222222</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>A</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Terca</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quinta</diaDaSemana>
+            <hora>16:00 as 18:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Calculo 1</nome>
+    <codigo>333333</codigo>
+    <pre__req>333333</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>AA</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>BB</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>10:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+      <Model.Turma>
+        <nome>CC</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>08:00 as 10:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Validação 1</nome>
+    <codigo>444444</codigo>
+    <pre__req>222222 ou 333333</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>D</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Segunda</diaDaSemana>
+            <hora>08:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Validação 2</nome>
+    <codigo>555555</codigo>
+    <pre__req>222222</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>E</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Quarta</diaDaSemana>
+            <hora>08:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+  <Model.Disciplina>
+    <nome>Validação 3</nome>
+    <codigo>666666</codigo>
+    <pre__req>333333</pre__req>
+    <turmas>
+      <Model.Turma>
+        <nome>F</nome>
+        <horarios>
+          <Model.Horario>
+            <diaDaSemana>Sexta</diaDaSemana>
+            <hora>08:00 as 12:00</hora>
+          </Model.Horario>
+        </horarios>
+      </Model.Turma>
+    </turmas>
+  </Model.Disciplina>
+</list>

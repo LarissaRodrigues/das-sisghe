@@ -1,0 +1,9 @@
+#coverage viewer module properties for project
+#Tue Feb 26 12:22:05 PYST 2013
+coverage.activity=ON
+>>>>>>>=.r209
+project.type=java
+<<<<<<<=.mine
+=\=\=\=\=\=\=
+coverage.templateFile=coverage/template.emma
+coverage.coverageFile=coverage/coverage.emma
